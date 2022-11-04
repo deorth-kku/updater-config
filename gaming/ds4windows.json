@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "account_name": "Ryochan7",
+        "api_type": "github",
+        "project_name": "DS4Windows"
+    },
+    "download": {
+        "filetype": "zip",
+        "keyword": "x64"
+    },
+    "jsonver": "1.0.0",
+    "process": {
+        "allow_restart": true,
+        "image_name": "DS4Windows.exe"
+    },
+    "version": {
+        "use_exe_version": true
+    }
+}

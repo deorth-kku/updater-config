@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "account_name": "git-for-windows",
+        "api_type": "github",
+        "project_name": "git"
+    },
+    "download": {
+        "filetype": "zip",
+        "keyword": [
+            "%arch"
+        ]
+    },
+    "jsonver": "1.0.0",
+    "process": {
+        "image_name": "git.exe"
+    }
+}

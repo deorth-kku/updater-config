@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "account_name": "libarchive",
+        "api_type": "github",
+        "project_name": "libarchive"
+    },
+    "decompress": {
+        "use_builtin_zipfile": true
+    },
+    "download": {
+        "filetype": "zip",
+        "keyword": [
+            "amd64"
+        ]
+    },
+    "jsonver": "1.0.0"
+}

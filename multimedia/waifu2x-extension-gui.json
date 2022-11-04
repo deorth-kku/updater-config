@@ -1,0 +1,21 @@
+{
+    "basic": {
+        "account_name": "AaronFeng753",
+        "api_type": "github",
+        "project_name": "Waifu2x-Extension-GUI"
+    },
+    "decompress": {
+        "single_dir": "waifu2x-extension-gui"
+    },
+    "download": {
+        "filetype": "exe"
+    },
+    "jsonver": "1.0.0",
+    "process": {
+        "allow_restart": false,
+        "image_name": "Waifu2x-Extension-GUI"
+    },
+    "version": {
+        "use_exe_version": false
+    }
+}

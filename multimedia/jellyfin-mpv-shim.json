@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "account_name": "jellyfin",
+        "api_type": "github",
+        "project_name": "jellyfin-mpv-shim"
+    },
+    "decompress": {
+        "skip": true
+    },
+    "download": {
+        "exclude_keyword": [
+            "LEGACY32"
+        ],
+        "filetype": ".exe"
+    },
+    "jsonver": "1.0.0"
+}

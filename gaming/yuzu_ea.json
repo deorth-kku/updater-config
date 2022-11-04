@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "account_name": "Kryptuq",
+        "api_type": "github",
+        "project_name": "Yuzu-Early-Access-files"
+    },
+    "decompress": {
+        "exclude_file_type": [
+            "xz"
+        ]
+    },
+    "download": {
+        "filetype": "zip"
+    },
+    "jsonver": "1.0.0",
+    "process": {
+        "image_name": "yuzu"
+    }
+}

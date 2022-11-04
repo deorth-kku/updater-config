@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "account_name": "Nlzy",
+        "api_type": "github",
+        "project_name": "vapoursynth-waifu2x-ncnn-vulkan"
+    },
+    "download": {
+        "filetype": "7z",
+        "keyword": [
+            "%OS"
+        ]
+    },
+    "jsonver": "1.0.0",
+    "process": {
+        "image_name": "VSPipe.exe"
+    }
+}

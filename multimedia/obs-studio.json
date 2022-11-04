@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "account_name": "obsproject",
+        "api_type": "github",
+        "project_name": "obs-studio"
+    },
+    "download": {
+        "filetype": "zip",
+        "keyword": [
+            "%arch"
+        ]
+    },
+    "jsonver": "1.0.0",
+    "process": {
+        "image_name": "obs64.exe"
+    }
+}

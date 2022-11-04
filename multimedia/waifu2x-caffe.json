@@ -1,0 +1,12 @@
+{
+    "basic": {
+        "account_name": "lltcggie",
+        "api_type": "github",
+        "project_name": "waifu2x-caffe"
+    },
+    "download": {
+        "add_version_to_filename": true,
+        "filetype": "zip"
+    },
+    "jsonver": "1.0.0"
+}

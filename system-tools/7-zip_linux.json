@@ -1,0 +1,13 @@
+{
+    "basic": {
+        "api_type": "sourceforge",
+        "project_name": "sevenzip"
+    },
+    "download": {
+        "filetype": "tar.xz",
+        "keyword": [
+            "%arch"
+        ]
+    },
+    "jsonver": "1.0.0"
+}

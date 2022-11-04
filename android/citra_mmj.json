@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "account_name": "weihuoya",
+        "api_type": "github",
+        "project_name": "citra"
+    },
+    "decompress": {
+        "skip": true
+    },
+    "download": {
+        "exclude_keyword": [
+            "Antutu",
+            "StorageAccess"
+        ],
+        "filetype": "apk"
+    },
+    "jsonver": "1.0.0"
+}

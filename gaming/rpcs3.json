@@ -1,0 +1,14 @@
+{
+    "basic": {
+        "account_name": "rpcs3",
+        "api_type": "appveyor",
+        "project_name": "rpcs3"
+    },
+    "build": {
+        "no_pull": true
+    },
+    "download": {
+        "keyword": "rpcs3"
+    },
+    "jsonver": "1.0.0"
+}

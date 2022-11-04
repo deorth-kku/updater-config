@@ -1,0 +1,31 @@
+{
+    "basic": {
+        "api_type": "apijson",
+        "api_url": "https://skyline-builds.alula.gay/builds"
+    },
+    "decompress": {
+        "skip": true
+    },
+    "download": {
+        "add_version_to_filename": true,
+        "filename_override": "skyline.apk",
+        "path": [
+            "https://skyline-builds.alula.gay/cache",
+            [
+                0,
+                "id"
+            ],
+            [
+                0,
+                "apkName"
+            ]
+        ]
+    },
+    "jsonver": "1.0.0",
+    "version": {
+        "path": [
+            0,
+            "runNumber"
+        ]
+    }
+}

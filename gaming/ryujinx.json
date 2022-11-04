@@ -1,0 +1,20 @@
+{
+    "basic": {
+        "account_name": "Ryujinx",
+        "api_type": "github",
+        "project_name": "release-channel-master"
+    },
+    "build": {
+        "no_pull": true
+    },
+    "download": {
+        "exclude_keyword": [
+            "headless"
+        ],
+        "filetype": "",
+        "keyword": [
+            "%OS"
+        ]
+    },
+    "jsonver": "1.0.0"
+}

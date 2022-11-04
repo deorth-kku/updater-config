@@ -1,0 +1,14 @@
+{
+    "basic": {
+        "account_name": "KieronQuinn",
+        "api_type": "github",
+        "project_name": "DarQ"
+    },
+    "decompress": {
+        "skip": true
+    },
+    "download": {
+        "filetype": "apk"
+    },
+    "jsonver": "1.0.0"
+}

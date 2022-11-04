@@ -1,0 +1,33 @@
+{
+    "basic": {
+        "account_name": "nastys",
+        "api_type": "appveyor",
+        "project_name": "pd-loader"
+    },
+    "build": {
+        "branch": "dev"
+    },
+    "decompress": {
+        "exclude_file_type": [
+            "url",
+            "md5",
+            "sfv",
+            "bat"
+        ],
+        "exclude_file_type_when_update": [
+            "ini",
+            "dat"
+        ]
+    },
+    "download": {
+        "add_version_to_filename": true,
+        "exclude_keyword": [
+            "HardMode"
+        ],
+        "filetype": "zip"
+    },
+    "jsonver": "1.0.0",
+    "process": {
+        "image_name": "diva.exe"
+    }
+}

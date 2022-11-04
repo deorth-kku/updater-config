@@ -1,0 +1,15 @@
+{
+    "basic": {
+        "account_name": "maharmstone",
+        "api_type": "github",
+        "project_name": "btrfs"
+    },
+    "download": {
+        "exclude_keyword": [
+            "debug",
+            "pdb"
+        ],
+        "filetype": "zip"
+    },
+    "jsonver": "1.0.0"
+}

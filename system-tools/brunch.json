@@ -1,0 +1,14 @@
+{
+    "basic": {
+        "account_name": "sebanc",
+        "api_type": "github",
+        "project_name": "brunch"
+    },
+    "decompress": {
+        "skip": true
+    },
+    "download": {
+        "filetype": "tar.gz"
+    },
+    "jsonver": "1.0.0"
+}

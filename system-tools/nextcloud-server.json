@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "api_type": "simplespider",
+        "page_url": "https://download.nextcloud.com/server/releases/"
+    },
+    "download": {
+        "indexes": [
+            -1
+        ],
+        "regexes": [
+            "<a href=\"(nextcloud-.*?\\.zip)\">"
+        ]
+    },
+    "jsonver": "1.0.0",
+    "version": {
+        "regex": "nextcloud-(.*?)\\.zip"
+    }
+}

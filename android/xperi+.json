@@ -1,0 +1,14 @@
+{
+    "basic": {
+        "account_name": "ivaniskandar",
+        "api_type": "github",
+        "project_name": "shouko"
+    },
+    "decompress": {
+        "skip": true
+    },
+    "download": {
+        "filetype": "apk"
+    },
+    "jsonver": "1.0.0"
+}

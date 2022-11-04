@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "account_name": "Chuyu-Team",
+        "api_type": "github",
+        "project_name": "Dism-Multi-language"
+    },
+    "download": {
+        "filetype": "zip"
+    },
+    "jsonver": "1.0.0",
+    "process": {
+        "allow_restart": true,
+        "image_name": "Dism++x64.exe"
+    },
+    "version": {
+        "use_exe_version": true
+    }
+}

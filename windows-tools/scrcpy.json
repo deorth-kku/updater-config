@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "account_name": "Genymobile",
+        "api_type": "github",
+        "project_name": "scrcpy"
+    },
+    "download": {
+        "add_version_to_filename": true,
+        "filetype": "zip",
+        "keyword": "win64"
+    },
+    "jsonver": "1.0.0",
+    "process": {
+        "allow_restart": true,
+        "image_name": "adb.exe"
+    }
+}

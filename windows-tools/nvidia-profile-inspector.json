@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "account_name": "Orbmu2k",
+        "api_type": "github",
+        "project_name": "nvidiaProfileInspector"
+    },
+    "download": {
+        "filetype": "zip"
+    },
+    "jsonver": "1.0.0",
+    "process": {
+        "image_name": "nvidiaProfileInspector.exe"
+    },
+    "version": {
+        "use_exe_version": true
+    }
+}

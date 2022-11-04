@@ -1,0 +1,11 @@
+{
+    "basic": {
+        "account_name": "RPCS3",
+        "api_type": "github",
+        "project_name": "rpcs3-binaries-win"
+    },
+    "jsonver": "1.0.0",
+    "process": {
+        "image_name": "rpcs3.exe"
+    }
+}

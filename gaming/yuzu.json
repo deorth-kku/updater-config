@@ -1,0 +1,21 @@
+{
+    "basic": {
+        "account_name": "yuzu-emu",
+        "api_type": "github",
+        "project_name": "yuzu-mainline"
+    },
+    "decompress": {
+        "exclude_file_type": [
+            "xz"
+        ]
+    },
+    "download": {
+        "keyword": [
+            "%OS"
+        ]
+    },
+    "jsonver": "1.0.0",
+    "process": {
+        "image_name": "yuzu"
+    }
+}

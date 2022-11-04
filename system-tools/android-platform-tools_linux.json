@@ -1,0 +1,20 @@
+{
+    "basic": {
+        "api_type": "simplespider",
+        "page_url": "https://developer.android.com/studio/releases/platform-tools"
+    },
+    "download": {
+        "add_version_to_filename": true,
+        "filename_override": "platform-tools-linux.zip",
+        "url": "https://dl.google.com/android/repository/platform-tools-latest-linux.zip"
+    },
+    "jsonver": "1.0.0",
+    "process": {
+        "allow_restart": false,
+        "image_name": "adb"
+    },
+    "version": {
+        "from_page": true,
+        "regex": "data-text=\"([.0-9]{3,})"
+    }
+}

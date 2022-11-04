@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "account_name": "lybxlpsv",
+        "api_type": "appveyor",
+        "project_name": "divaimgui"
+    },
+    "decompress": {
+        "exclude_file_type_when_update": [
+            "ini",
+            "dat",
+            "csv"
+        ]
+    },
+    "download": {
+        "add_version_to_filename": true,
+        "filetype": "zip",
+        "keyword": [
+            "%arch"
+        ]
+    },
+    "jsonver": "1.0.0",
+    "process": {
+        "image_name": "diva.exe"
+    }
+}

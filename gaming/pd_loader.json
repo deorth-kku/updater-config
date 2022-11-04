@@ -1,0 +1,32 @@
+{
+    "basic": {
+        "account_name": "PDModdingCommunity",
+        "api_type": "github",
+        "project_name": "PD-Loader"
+    },
+    "build": {
+        "no_pull": true
+    },
+    "decompress": {
+        "exclude_file_type": [
+            "url",
+            "md5",
+            "sfv",
+            "bat"
+        ],
+        "exclude_file_type_when_update": [
+            "ini",
+            "dat"
+        ]
+    },
+    "download": {
+        "exclude_keyword": [
+            "old"
+        ],
+        "filetype": "zip"
+    },
+    "jsonver": "1.0.0",
+    "process": {
+        "image_name": "diva.exe"
+    }
+}

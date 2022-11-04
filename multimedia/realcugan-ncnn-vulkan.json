@@ -1,0 +1,14 @@
+{
+    "basic": {
+        "account_name": "nihui",
+        "api_type": "github",
+        "project_name": "realcugan-ncnn-vulkan"
+    },
+    "download": {
+        "filetype": "zip",
+        "keyword": [
+            "%OS"
+        ]
+    },
+    "jsonver": "1.0.0"
+}

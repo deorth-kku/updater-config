@@ -1,0 +1,27 @@
+{
+    "basic": {
+        "api_type": "simplespider",
+        "page_url": "https://www.guru3d.com/files-details/gpu-z-download-techpowerup.html"
+    },
+    "decompress": {
+        "exclude_file_type": [
+            "com/",
+            "nfo",
+            "url"
+        ]
+    },
+    "download": {
+        "add_version_to_filename": true,
+        "url": "https://ftp.nluug.nl/pub/games/PC/guru3d/generic/GPU-Z-[Guru3D.com].zip"
+    },
+    "jsonver": "1.0.0",
+    "process": {
+        "allow_restart": true,
+        "image_name": "GPU-Z.exe"
+    },
+    "version": {
+        "from_page": true,
+        "regex": "GPU-Z Download v(.*?) ",
+        "use_exe_version": true
+    }
+}

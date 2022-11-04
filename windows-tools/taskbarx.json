@@ -1,0 +1,21 @@
+{
+    "basic": {
+        "account_name": "ChrisAnd1998",
+        "api_type": "github",
+        "project_name": "TaskbarX"
+    },
+    "download": {
+        "filetype": "zip",
+        "keyword": [
+            "x64"
+        ]
+    },
+    "jsonver": "1.0.0",
+    "process": {
+        "allow_restart": true,
+        "image_name": "TaskbarX.exe"
+    },
+    "version": {
+        "use_exe_version": true
+    }
+}

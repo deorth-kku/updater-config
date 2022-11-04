@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "account_name": "Davidobot",
+        "api_type": "github",
+        "project_name": "BetterJoyForCemu"
+    },
+    "download": {
+        "filetype": "zip"
+    },
+    "jsonver": "1.0.0",
+    "process": {
+        "allow_restart": true,
+        "image_name": "BetterJoyForCemu"
+    },
+    "version": {
+        "use_exe_version": false
+    }
+}

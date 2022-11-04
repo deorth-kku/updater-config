@@ -1,0 +1,14 @@
+{
+    "basic": {
+        "account_name": "blueskythlikesclouds",
+        "api_type": "appveyor",
+        "project_name": "mikumikulibrary"
+    },
+    "download": {
+        "add_version_to_filename": true,
+        "keyword": [
+            "MikuMikuModel"
+        ]
+    },
+    "jsonver": "1.0.0"
+}

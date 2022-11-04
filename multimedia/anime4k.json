@@ -1,0 +1,14 @@
+{
+    "basic": {
+        "account_name": "bloc97",
+        "api_type": "github",
+        "project_name": "Anime4K"
+    },
+    "build": {
+        "no_pull": true
+    },
+    "download": {
+        "filetype": "zip"
+    },
+    "jsonver": "1.0.0"
+}

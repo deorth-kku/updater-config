@@ -1,0 +1,12 @@
+{
+    "basic": {
+        "account_name": "mayswind",
+        "api_type": "github",
+        "project_name": "AriaNg"
+    },
+    "download": {
+        "filetype": "zip",
+        "keyword": "AllInOne"
+    },
+    "jsonver": "1.0.0"
+}

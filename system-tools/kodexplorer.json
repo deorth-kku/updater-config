@@ -1,0 +1,11 @@
+{
+    "basic": {
+        "account_name": "kalcaddle",
+        "api_type": "github",
+        "project_name": "KodExplorer"
+    },
+    "download": {
+        "filetype": "zip"
+    },
+    "jsonver": "1.0.0"
+}

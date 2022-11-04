@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "account_name": "FFMS",
+        "api_type": "github",
+        "project_name": "ffms2"
+    },
+    "decompress": {
+        "single_dir": "ffms2-%VER-msvc\\x64"
+    },
+    "download": {
+        "filetype": "7z"
+    },
+    "jsonver": "1.0.0",
+    "process": {
+        "image_name": "VSPipe.exe"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "account_name": "citra-emu",
+        "api_type": "github",
+        "project_name": "citra-nightly"
+    },
+    "download": {
+        "keyword": [
+            "%OS"
+        ]
+    },
+    "jsonver": "1.0.0",
+    "process": {
+        "image_name": "citra_qt"
+    }
+}
