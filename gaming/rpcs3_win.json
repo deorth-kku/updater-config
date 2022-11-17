@@ -4,8 +4,11 @@
         "api_type": "github",
         "project_name": "rpcs3-binaries-win"
     },
-    "jsonver": "1.0.0",
+    "build": {
+        "no_pull": true
+    },
     "process": {
         "image_name": "rpcs3.exe"
-    }
+    },
+    "jsonver": "1.0.0"
 }
