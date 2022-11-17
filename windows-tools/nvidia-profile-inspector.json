@@ -5,13 +5,14 @@
         "project_name": "nvidiaProfileInspector"
     },
     "download": {
-        "filetype": "zip"
+        "filetype": "zip",
+        "add_version_to_filename": true
     },
-    "jsonver": "1.0.0",
     "process": {
         "image_name": "nvidiaProfileInspector.exe"
     },
     "version": {
         "use_exe_version": true
-    }
+    },
+    "jsonver": "1.0.0"
 }
