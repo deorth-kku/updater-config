@@ -4,6 +4,9 @@
         "api_type": "github",
         "project_name": "FFmpeg-Builds"
     },
+    "build": {
+        "no_pull": true
+    },
     "decompress": {
         "single_dir": true
     },
@@ -14,14 +17,14 @@
             "lgpl",
             "shared"
         ],
-        "filetype": "zip",
+        "filetype": ["zip","tar.xz"],
         "keyword": [
             "%OS",
             "%arch"
         ]
     },
-    "jsonver": "1.0.0",
     "process": {
         "image_name": "ffmpeg"
-    }
+    },
+    "jsonver": "1.0.1"
 }

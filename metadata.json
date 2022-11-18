@@ -85,7 +85,7 @@
     },
     "ffmpeg_binary": {
         "config_path": "multimedia/ffmpeg_binary.json",
-        "date": "2022-11-03 02:33:49.602659"
+        "date": "2022-11-18 00:45:32.569788"
     },
     "ffms2-vapoursynth": {
         "config_path": "multimedia/ffms2-vapoursynth.json",
