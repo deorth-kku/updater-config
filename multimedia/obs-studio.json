@@ -4,14 +4,15 @@
         "api_type": "github",
         "project_name": "obs-studio"
     },
-    "download": {
-        "filetype": "zip",
-        "keyword": [
-            "%arch"
-        ]
+    "build": {
+        "no_pull": true
     },
-    "jsonver": "1.0.0",
+    "download": {
+        "filetype": ["zip"],
+        "keyword": ["%arch"]
+    },
     "process": {
         "image_name": "obs64.exe"
-    }
+    },
+    "jsonver": "1.0.1"
 }

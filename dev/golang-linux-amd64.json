@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "api_type": "simplespider",
+        "page_url": "https://go.dev/dl/"
+    },
+    "download": {
+        "regexes": [
+            "<a class=\"download\" href=\"(/dl/go.*?\\.linux-amd64\\.tar\\.gz)\">"
+        ],
+        "try_redirect":false
+    },
+    "version": {
+        "regex": "go(.*?)\\.linux-amd64\\.tar\\.gz"
+    },
+    "jsonver": "1.0.0"
+}

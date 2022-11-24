@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "account_name": "prometheus-community",
+        "project_name": "systemd_exporter",
+        "api_type": "github"
+
+    },
+    "download": {
+        "filetype": ["tar.gz"],
+        "keyword": ["%arch"]
+    },
+    "process": {
+        "allow_restart": true,
+        "service": true
+    },
+    "jsonver": "1.0.1"
+}
