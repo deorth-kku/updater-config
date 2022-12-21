@@ -1,0 +1,15 @@
+{
+    "basic": {
+        "account_name": "2dust",
+        "api_type": "github",
+        "project_name": "v2rayNG"
+    },
+    "decompress": {
+        "skip": true
+    },
+    "download": {
+        "keyword":["arm64"],
+        "filetype": "apk"
+    },
+    "jsonver": "1.0.1"
+}

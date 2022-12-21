@@ -7,6 +7,9 @@
     "decompress": {
         "skip": true
     },
+    "build": {
+        "no_pull": true
+    },
     "download": {
         "exclude_keyword": [
             "Antutu",

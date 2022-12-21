@@ -57,7 +57,7 @@
     },
     "citra_mmj": {
         "config_path": "android/citra_mmj.json",
-        "date": "2022-11-03 02:33:49.602659"
+        "date": "2022-12-14 14:24:17.366817"
     },
     "cmder_mini": {
         "config_path": "windows-tools/cmder_mini.json",
@@ -65,7 +65,7 @@
     },
     "darq": {
         "config_path": "android/darq.json",
-        "date": "2022-11-03 02:33:49.602659"
+        "date": "2022-12-14 14:35:21.439595"
     },
     "dism++": {
         "config_path": "windows-tools/dism++.json",
@@ -223,6 +223,10 @@
         "config_path": "system-tools/v2ray_rules.json",
         "date": "2022-11-03 02:33:49.594659"
     },
+    "v2rayng_arm64": {
+        "config_path": "android/v2rayng_arm64.json",
+        "date": "2022-12-14 14:42:02.988613"
+    },
     "vapoursynth": {
         "config_path": "multimedia/vapoursynth.json",
         "date": "2022-11-03 02:33:49.590658"
@@ -265,7 +269,7 @@
     },
     "xperi+": {
         "config_path": "android/xperi+.json",
-        "date": "2022-11-03 02:33:49.606659"
+        "date": "2022-12-14 14:24:48.395252"
     },
     "yuzu": {
         "config_path": "gaming/yuzu.json",

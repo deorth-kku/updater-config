@@ -3,6 +3,7 @@ import os
 from utils import JsonConfig, my_log_settings
 import logging
 from datetime import datetime
+from json.decoder import JSONDecodeError
 cwd = os.path.dirname(__file__)
 
 
@@ -16,7 +17,10 @@ def get_config_mtime():
                 continue
             full_json_file = os.path.join(full_dir, config)
             mtime = os.path.getmtime(full_json_file)
-            j = JsonConfig(full_json_file, "rw")
+            try:
+                j = JsonConfig(full_json_file, "rw")
+            except JSONDecodeError:
+                logging.error("broken json file %s"%full_json_file)
             if "jsonver" not in j.data:
                 j.update({"jsonver": "1.0.0"})
                 j.dumpconfig()
