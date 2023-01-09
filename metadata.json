@@ -11,6 +11,10 @@
         "config_path": "system-tools/Xray.json",
         "date": "2022-11-03 02:33:49.594659"
     },
+    "amd_gpu_driver": {
+        "config_path": "windows-tools/amd_gpu_driver.json",
+        "date": "2022-11-26 04:42:57.421092"
+    },
     "android-platform-tools_linux": {
         "config_path": "system-tools/android-platform-tools_linux.json",
         "date": "2022-11-03 02:33:49.598659"
@@ -97,7 +101,7 @@
     },
     "git4windows": {
         "config_path": "windows-tools/git4windows.json",
-        "date": "2022-11-03 02:33:49.602659"
+        "date": "2023-01-09 02:31:21.214722"
     },
     "golang-linux-amd64": {
         "config_path": "dev/golang-linux-amd64.json",
@@ -229,7 +233,7 @@
     },
     "vapoursynth": {
         "config_path": "multimedia/vapoursynth.json",
-        "date": "2022-11-03 02:33:49.590658"
+        "date": "2023-01-09 02:40:37.861186"
     },
     "vapoursynth-waifu2x-ncnn-vulkan": {
         "config_path": "multimedia/vapoursynth-waifu2x-ncnn-vulkan.json",

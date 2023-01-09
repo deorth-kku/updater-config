@@ -5,13 +5,14 @@
         "project_name": "git"
     },
     "download": {
-        "filetype": "zip",
+        "filetype": "exe",
         "keyword": [
-            "%arch"
+            "PortableGit",
+            "64-bit"
         ]
     },
-    "jsonver": "1.0.0",
     "process": {
         "image_name": "git.exe"
-    }
+    },
+    "jsonver": "1.0.0"
 }

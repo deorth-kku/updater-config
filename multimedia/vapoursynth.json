@@ -8,7 +8,7 @@
         "filetype": "7z",
         "keyword": [
             "Portable",
-            "%arch"
+            "64"
         ]
     },
     "jsonver": "1.0.0"
