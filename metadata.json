@@ -11,9 +11,9 @@
         "config_path": "system-tools/Xray.json",
         "date": "2022-11-03 02:33:49.594659"
     },
-    "amd_gpu_driver": {
-        "config_path": "windows-tools/amd_gpu_driver.json",
-        "date": "2022-11-26 04:42:57.421092"
+    "amd_gpu_driver_whql": {
+        "config_path": "windows-tools/amd_gpu_driver_whql.json",
+        "date": "2023-01-21 15:20:59.435671"
     },
     "android-platform-tools_linux": {
         "config_path": "system-tools/android-platform-tools_linux.json",
@@ -133,7 +133,7 @@
     },
     "mpv-player-windows": {
         "config_path": "multimedia/mpv-player-windows.json",
-        "date": "2022-11-03 02:33:49.598659"
+        "date": "2023-01-10 09:41:01.444911"
     },
     "next-terminal": {
         "config_path": "system-tools/next-terminal.json",

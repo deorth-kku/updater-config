@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "api_type": "simplespider",
+        "page_url": "https://www.amd.com/en/support/graphics/amd-radeon-rx-6000-series/amd-radeon-rx-6900-series/amd-radeon-rx-6950-xt",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36",
+            "Referer": "https://www.amd.com/en"
+        }
+    },
+    "download": {
+        "regexes": [
+            "<a href=\"(https://drivers\\.amd\\.com/drivers/whql.*?\\.exe)\" class=\"btn-transparent-black\">"
+        ],
+        "try_redirect": false
+    },
+    "version": {
+        "regex": "whql-amd-software-adrenalin-edition-(.*?)-.*?\\.exe"
+    },
+    "decompress": {
+        "skip": true
+    },
+    "jsonver": "1.0.2"
+}
