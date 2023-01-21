@@ -5,8 +5,10 @@
     },
     "download": {
         "keyword": [
-            "%arch"
-        ]
+            "%arch",
+            "v3"
+        ],
+        "exclude_keyword":["dev"]
     },
     "jsonver": "1.0.0",
     "process": {
