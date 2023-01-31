@@ -7,7 +7,8 @@
     "download": {
         "keyword": [
             "%OS"
-        ]
+        ],
+        "filetype":"tar.gz"
     },
     "jsonver": "1.0.0",
     "process": {

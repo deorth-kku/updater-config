@@ -13,7 +13,7 @@
     },
     "amd_gpu_driver_whql": {
         "config_path": "windows-tools/amd_gpu_driver_whql.json",
-        "date": "2023-01-21 15:20:59.435671"
+        "date": "2023-01-21 15:23:06.997296"
     },
     "android-platform-tools_linux": {
         "config_path": "system-tools/android-platform-tools_linux.json",
@@ -57,7 +57,7 @@
     },
     "citra-canary": {
         "config_path": "gaming/citra-canary.json",
-        "date": "2022-11-03 02:33:49.598659"
+        "date": "2023-01-31 00:51:28.428415"
     },
     "citra_mmj": {
         "config_path": "android/citra_mmj.json",
