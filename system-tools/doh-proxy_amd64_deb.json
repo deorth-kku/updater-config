@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "api_type": "github",
+        "account_name": "DNSCrypt",
+        "project_name": "doh-server"
+    },
+    "build": {
+        "no_pull": true
+    },
+    "decompress": {
+        "use_system_package_manager": true
+    },
+    "download": {
+        "keyword": [
+            "amd64"
+        ],
+        "filetype": "deb"
+    },
+    "process": {
+        "allow_restart": true,
+        "service": true,
+        "image_name": "doh-proxy"
+    },
+    "jsonver": "1.0.3"
+}

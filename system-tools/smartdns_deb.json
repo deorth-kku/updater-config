@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "api_type": "github",
+        "account_name": "pymumu",
+        "project_name": "smartdns"
+    },
+    "build": {
+        "no_pull": true
+    },
+    "decompress": {
+        "use_system_package_manager": true
+    },
+    "download": {
+        "keyword": [
+            "%arch",
+            "debian"
+        ],
+        "filetype": "deb"
+    },
+    "process": {
+        "allow_restart": true,
+        "service": true,
+        "image_name": "smartdns"
+    },
+    "jsonver": "1.0.3"
+}
