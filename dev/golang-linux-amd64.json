@@ -7,10 +7,16 @@
         "regexes": [
             "<a class=\"download\" href=\"(/dl/go.*?\\.linux-amd64\\.tar\\.gz)\">"
         ],
-        "try_redirect":false
+        "try_redirect": false
     },
     "version": {
         "regex": "go(.*?)\\.linux-amd64\\.tar\\.gz"
     },
-    "jsonver": "1.0.0"
+    "decompress": {
+        "clean_install": true
+    },
+    "process": {
+        "image_name": "go"
+    },
+    "jsonver": "1.0.4"
 }

@@ -79,6 +79,10 @@
         "config_path": "gaming/divaimgui.json",
         "date": "2022-11-03 02:33:49.590658"
     },
+    "doh-proxy_amd64_deb": {
+        "config_path": "system-tools/doh-proxy_amd64_deb.json",
+        "date": "2023-02-03 13:17:27.917625"
+    },
     "ds4windows": {
         "config_path": "gaming/ds4windows.json",
         "date": "2022-11-03 02:33:49.590658"
@@ -105,7 +109,7 @@
     },
     "golang-linux-amd64": {
         "config_path": "dev/golang-linux-amd64.json",
-        "date": "2022-11-24 05:05:21.480974"
+        "date": "2023-02-05 02:07:53.982635"
     },
     "gpu-z": {
         "config_path": "windows-tools/gpu-z.json",
@@ -210,6 +214,10 @@
     "skyline": {
         "config_path": "android/skyline.json",
         "date": "2022-11-03 02:33:49.606659"
+    },
+    "smartdns_deb": {
+        "config_path": "system-tools/smartdns_deb.json",
+        "date": "2023-02-03 13:17:32.413748"
     },
     "sunshine_win": {
         "config_path": "gaming/sunshine_win.json",
