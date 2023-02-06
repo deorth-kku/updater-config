@@ -20,7 +20,8 @@
         "filetype": ["zip","tar.xz"],
         "keyword": [
             "%OS",
-            "%arch"
+            "%arch",
+            "master"
         ]
     },
     "process": {
