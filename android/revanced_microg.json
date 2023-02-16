@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "api_type": "github",
+        "account_name": "inotia00",
+        "project_name": "VancedMicroG"
+    },
+    "decompress": {
+        "skip": true
+    },
+    "build": {
+        "no_pull": true
+    },
+    "download": {
+        "filetype": "apk",
+        "add_version_to_filename":true
+    },
+    "jsonver": "1.0.0"
+}

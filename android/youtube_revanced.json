@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "api_type": "github",
+        "account_name": "j-hc",
+        "project_name": "revanced-magisk-module"
+    },
+    "decompress": {
+        "skip": true
+    },
+    "build": {
+        "no_pull": true
+    },
+    "download": {
+        "keyword":["youtube","all"],
+        "exclude_keyword": ["magisk"],
+        "filetype": "apk"
+    },
+    "jsonver": "1.0.0"
+}
