@@ -1,0 +1,22 @@
+{
+    "basic": {
+        "api_type": "simplespider",
+        "page_url": "https://go.dev/dl/"
+    },
+    "download": {
+        "regexes": [
+            "<a class=\"download\" href=\"(/dl/go.*?\\.windows-amd64\\.zip)\">"
+        ],
+        "try_redirect": false
+    },
+    "version": {
+        "regex": "go(.*?)\\.windows-amd64\\.zip"
+    },
+    "decompress": {
+        "clean_install": true
+    },
+    "process": {
+        "image_name": "go"
+    },
+    "jsonver": "1.0.4"
+}
