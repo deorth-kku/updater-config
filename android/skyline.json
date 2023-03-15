@@ -19,7 +19,8 @@
                 0,
                 "apkName"
             ]
-        ]
+        ],
+        "filetype":"apk"
     },
     "jsonver": "1.0.0",
     "version": {
