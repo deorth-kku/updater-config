@@ -137,7 +137,7 @@
     },
     "mikumikumodel_dev": {
         "config_path": "gaming/mikumikumodel_dev.json",
-        "date": "2022-11-03 02:33:49.598659"
+        "date": "2023-05-03 06:21:53.444463"
     },
     "moonlight_win": {
         "config_path": "gaming/moonlight_win.json",
@@ -169,7 +169,7 @@
     },
     "obs-studio": {
         "config_path": "multimedia/obs-studio.json",
-        "date": "2022-11-23 11:33:29.225532"
+        "date": "2023-05-03 06:21:40.716464"
     },
     "office-tool": {
         "config_path": "windows-tools/office-tool.json",
