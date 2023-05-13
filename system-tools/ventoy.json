@@ -1,0 +1,12 @@
+{
+    "basic": {
+        "api_type": "github",
+        "account_name": "ventoy",
+        "project_name": "Ventoy"
+    },
+    "download": {
+        "filetype": "",
+        "keyword": ["%OS"]
+    },
+    "jsonver": "1.0.0"
+}

@@ -1,0 +1,15 @@
+{
+    "basic": {
+        "api_type": "github",
+        "account_name": "pineappleEA",
+        "project_name": "pineapple-src"
+    },
+    "download": {
+        "filetype": "",
+        "keyword": ["%OS"]
+    },
+    "process": {
+        "image_name": "yuzu"
+    },
+    "jsonver": "1.0.0"
+}

@@ -259,6 +259,10 @@
         "config_path": "multimedia/vapoursynth-waifu2x-ncnn-vulkan.json",
         "date": "2022-11-03 02:33:49.590658"
     },
+    "ventoy": {
+        "config_path": "system-tools/ventoy.json",
+        "date": "2023-05-05 10:53:45.048687"
+    },
     "waifu2x-caffe": {
         "config_path": "multimedia/waifu2x-caffe.json",
         "date": "2022-11-03 02:33:49.590658"
@@ -306,5 +310,9 @@
     "yuzu_ea": {
         "config_path": "gaming/yuzu_ea.json",
         "date": "2022-11-03 02:33:49.594659"
+    },
+    "yuzu_ea_alt": {
+        "config_path": "gaming/yuzu_ea_alt.json",
+        "date": "2023-05-13 23:28:35.647994"
     }
 }
