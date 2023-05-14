@@ -1,20 +1,21 @@
 {
     "basic": {
-        "account_name": "YerongAI",
         "api_type": "github",
+        "account_name": "YerongAI",
         "project_name": "Office-Tool"
     },
     "download": {
         "filetype": "7z",
         "keyword": [
-            "with_runtime"
+            "with_runtime",
+            "%arch"
         ]
     },
-    "jsonver": "1.0.0",
     "process": {
         "image_name": "Office Tool Plus.exe"
     },
     "version": {
         "use_exe_version": true
-    }
+    },
+    "jsonver": "1.0.0"
 }
