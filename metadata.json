@@ -187,6 +187,10 @@
         "config_path": "gaming/pd_loader_dev.json",
         "date": "2022-11-03 02:33:49.602659"
     },
+    "phpmyadmin": {
+        "config_path": "system-tools/phpmyadmin.json",
+        "date": "2023-05-16 06:02:00.483079"
+    },
     "qtscrcpy": {
         "config_path": "system-tools/qtscrcpy.json",
         "date": "2022-11-03 02:33:49.606659"

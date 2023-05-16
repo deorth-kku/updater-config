@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "api_type": "simplespider",
+        "page_url": "https://www.phpmyadmin.net/"
+    },
+    "download": {
+        "indexes": [
+            0
+        ],
+        "regexes": [
+            "<a class=\"btn btn-success download_popup\" href=\"(.*?)\""
+        ]
+    },
+    "version": {
+        "regex": "phpMyAdmin-([0-9\\.]{3,5})-all-languages.zip"
+    },
+    "jsonver": "1.0.0"
+}
