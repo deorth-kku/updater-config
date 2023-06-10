@@ -1,21 +1,19 @@
 {
     "basic": {
-        "api_type": "simplespider",
-        "page_url": "https://github.com/Rem0o/FanControl.Releases"
+        "api_type": "github",
+        "account_name": "Rem0o",
+        "project_name": "FanControl.Releases"
     },
     "download": {
-        "add_version_to_filename": true,
-        "url": "https://github.com/Rem0o/FanControl.Releases/raw/master/FanControl.zip"
-    },
-    "jsonver": "1.0.0",
+        "filetype": "zip",
+        "keyword": ["4"],
+        "add_version_to_filename": true
+    }, 
     "process": {
         "allow_restart": true,
         "image_name": "FanControl.exe",
         "restart_wait": 3,
         "start_cmd": "schtasks /run /TN FanControl"
     },
-    "version": {
-        "from_page": true,
-        "regex": "\"/Rem0o/FanControl.Releases/releases/tag/(.*?)\""
-    }
+    "jsonver": "1.0.0"
 }

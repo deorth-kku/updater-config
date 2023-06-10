@@ -93,7 +93,7 @@
     },
     "fancontrol": {
         "config_path": "windows-tools/fancontrol.json",
-        "date": "2022-11-03 02:33:49.598659"
+        "date": "2023-06-03 06:19:30.010442"
     },
     "ffmpeg_binary": {
         "config_path": "multimedia/ffmpeg_binary.json",
@@ -317,6 +317,6 @@
     },
     "yuzu_ea_alt": {
         "config_path": "gaming/yuzu_ea_alt.json",
-        "date": "2023-05-13 23:28:35.647994"
+        "date": "2023-06-10 06:55:14.489699"
     }
 }

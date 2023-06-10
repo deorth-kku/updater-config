@@ -11,5 +11,10 @@
     "process": {
         "image_name": "yuzu"
     },
+    "decompress": {
+        "exclude_file_type": [
+            "xz"
+        ]
+    },
     "jsonver": "1.0.0"
 }
