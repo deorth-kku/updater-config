@@ -13,7 +13,8 @@
     "download": {
         "keyword":["youtube","all"],
         "exclude_keyword": ["magisk"],
-        "filetype": "apk"
+        "filetype": "apk",
+        "add_version_to_filename":true
     },
     "jsonver": "1.0.0"
 }

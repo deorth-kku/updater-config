@@ -6,6 +6,7 @@
     "download": {
         "add_version_to_filename": true,
         "filename_override": "platform-tools-windows.zip",
+        "filetype":"zip",
         "url": "https://dl.google.com/android/repository/platform-tools-latest-windows.zip"
     },
     "jsonver": "1.0.0",

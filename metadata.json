@@ -17,11 +17,11 @@
     },
     "android-platform-tools_linux": {
         "config_path": "dev/android-platform-tools_linux.json",
-        "date": "2023-03-01 09:16:12.357646"
+        "date": "2023-07-14 12:56:20.922693"
     },
     "android-platform-tools_windows": {
         "config_path": "dev/android-platform-tools_windows.json",
-        "date": "2023-03-01 09:21:13.517343"
+        "date": "2023-07-14 12:56:13.166599"
     },
     "anime4k": {
         "config_path": "multimedia/anime4k.json",
@@ -305,7 +305,7 @@
     },
     "youtube_revanced": {
         "config_path": "android/youtube_revanced.json",
-        "date": "2023-02-16 07:11:40.008759"
+        "date": "2023-06-10 23:30:06.991903"
     },
     "yuzu": {
         "config_path": "gaming/yuzu.json",
