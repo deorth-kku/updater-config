@@ -9,7 +9,7 @@
     },
     "download": {
         "filetype": ["zip"],
-        "keyword": ["Full"]
+        "keyword": ["OBS-Studio"]
     },
     "process": {
         "image_name": "obs64.exe"

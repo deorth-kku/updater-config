@@ -5,7 +5,7 @@
     },
     "7-zip_win": {
         "config_path": "windows-tools/7-zip_win.json",
-        "date": "2022-11-03 02:33:49.594659"
+        "date": "2023-07-25 14:27:57.897365"
     },
     "Xray": {
         "config_path": "system-tools/Xray.json",
@@ -169,7 +169,7 @@
     },
     "obs-studio": {
         "config_path": "multimedia/obs-studio.json",
-        "date": "2023-05-03 06:21:40.716464"
+        "date": "2023-07-26 07:24:50.565885"
     },
     "office-tool": {
         "config_path": "windows-tools/office-tool.json",

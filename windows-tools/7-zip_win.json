@@ -4,6 +4,9 @@
         "project_name": "sevenzip"
     },
     "download": {
+        "keyword": [
+            "x64"
+        ],
         "filetype": "exe"
     },
     "jsonver": "1.0.0"
