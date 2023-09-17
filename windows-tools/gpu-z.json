@@ -12,16 +12,17 @@
     },
     "download": {
         "add_version_to_filename": true,
-        "url": "https://ftp.nluug.nl/pub/games/PC/guru3d/generic/GPU-Z-[Guru3D.com].zip"
+        "url": "https://ftp.nluug.nl/pub/games/PC/guru3d/generic/GPU-Z-[Guru3D.com].zip",
+        "filetype": "zip"
     },
-    "jsonver": "1.0.0",
     "process": {
         "allow_restart": true,
         "image_name": "GPU-Z.exe"
     },
     "version": {
         "from_page": true,
-        "regex": "GPU-Z Download v(.*?) ",
+        "regex": "GPU-Z Download v([0-9\\.]*)",
         "use_exe_version": true
-    }
+    },
+    "jsonver": "1.0.0"
 }

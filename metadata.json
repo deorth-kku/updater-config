@@ -121,7 +121,7 @@
     },
     "gpu-z": {
         "config_path": "windows-tools/gpu-z.json",
-        "date": "2022-11-03 02:33:49.602659"
+        "date": "2023-09-17 14:41:12.066324"
     },
     "jellyfin-mpv-shim": {
         "config_path": "multimedia/jellyfin-mpv-shim.json",
