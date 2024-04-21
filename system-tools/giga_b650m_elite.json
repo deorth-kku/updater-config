@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "api_type": "simplespider",
+        "page_url": "https://www.gigabyte.cn/Motherboard/B650M-AORUS-ELITE-rev-13/support#support-dl-bios"
+    },
+    "decompress": {
+        "skip": true
+    },
+    "download": {
+        "regexes": [
+            "(https://download.gigabyte.cn/FileList/BIOS/mb_bios_b650m-aorus-elite_.*?)\""
+        ]
+    },
+    "jsonver": "1.0.0",
+    "version": {
+        "regex": "mb_bios_b650m-aorus-elite_8arpl239_(.*?).zip"
+    }
+}

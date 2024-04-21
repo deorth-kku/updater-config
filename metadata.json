@@ -103,6 +103,10 @@
         "config_path": "multimedia/ffms2-vapoursynth.json",
         "date": "2022-11-03 02:33:49.590658"
     },
+    "giga_b650m_elite": {
+        "config_path": "system-tools/giga_b650m_elite.json",
+        "date": "2024-03-24 03:15:47.265621"
+    },
     "giga_x570_elite_wifi": {
         "config_path": "system-tools/giga_x570_elite_wifi.json",
         "date": "2022-11-03 02:33:49.602659"
