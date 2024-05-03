@@ -13,7 +13,7 @@
     },
     "amd_gpu_driver_whql": {
         "config_path": "windows-tools/amd_gpu_driver_whql.json",
-        "date": "2023-01-21 15:23:06.997296"
+        "date": "2024-05-03 09:20:00.162336"
     },
     "android-platform-tools_linux": {
         "config_path": "dev/android-platform-tools_linux.json",
