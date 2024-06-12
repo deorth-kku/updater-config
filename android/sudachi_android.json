@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "account_name": "sudachi-emu",
+        "api_type": "github",
+        "project_name": "sudachi"
+    },
+    "decompress": {
+        "skip": true
+    },
+    "build": {
+        "no_pull": true
+    },
+    "download": {
+        "add_version_to_filename": true,
+        "filetype": "apk"
+    },
+    "jsonver": "1.0.0"
+}

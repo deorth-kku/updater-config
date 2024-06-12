@@ -239,6 +239,10 @@
         "config_path": "system-tools/smartdns_deb.json",
         "date": "2023-02-03 13:17:32.413748"
     },
+    "sudachi_android": {
+        "config_path": "android/sudachi_android.json",
+        "date": "2024-06-12 02:23:29.453473"
+    },
     "sunshine_win": {
         "config_path": "gaming/sunshine_win.json",
         "date": "2022-11-03 02:33:49.606659"
