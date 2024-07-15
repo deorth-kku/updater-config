@@ -10,7 +10,7 @@
     "download": {
         "filetype": ["zip"],
         "keyword": ["OBS-Studio"],
-        "exclude_keyword":["pdbs"]
+        "exclude_keyword":["pdbs","PDBs"]
     },
     "process": {
         "image_name": "obs64.exe"
