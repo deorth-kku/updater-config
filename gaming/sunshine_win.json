@@ -12,7 +12,7 @@
     "jsonver": "1.0.0",
     "process": {
         "allow_restart": true,
-        "image_name": "sunshinesvc",
+        "image_name": "SunshineService",
         "service": true
     }
 }
