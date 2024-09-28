@@ -1,8 +1,8 @@
 {
     "basic": {
-        "account_name": "sudachi-emu",
+        "account_name": "emuplace",
         "api_type": "github",
-        "project_name": "sudachi"
+        "project_name": "sudachi.emuplace.app"
     },
     "decompress": {
         "skip": true
