@@ -9,7 +9,7 @@
     },
     "download": {
         "regexes": [
-            "<a href=\"(https://drivers\\.amd\\.com/drivers/whql.*?\\.exe)\">"
+            "<a href=\"(https://drivers\\.amd\\.com/drivers/whql.*?\\.exe)\""
         ],
         "try_redirect": false
     },
