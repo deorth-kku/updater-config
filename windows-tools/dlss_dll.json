@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "api_type": "simplespider",
+        "page_url": "https://www.techpowerup.com/download/nvidia-dlss-dll/"
+    },
+    "download": {
+        "url": "https://www.techpowerup.com/download/nvidia-dlss-dll/",
+        "data": {
+            "id": 2741,
+            "server_id": 19
+        }
+    },
+    "jsonver": "1.0.2",
+    "version": {
+        "regex": "nvngx_dlss_([\\.0-9]*?).zip"
+    }
+}

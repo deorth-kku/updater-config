@@ -259,6 +259,10 @@
         "config_path": "windows-tools/amd_gpu_driver_whql.json",
         "date": "2024-10-19 09:51:33.439408"
     },
+    "dlss_dll": {
+        "config_path": "windows-tools/dlss_dll.json",
+        "date": "2024-11-20 09:44:33.781377"
+    },
     "ffms2-vapoursynth": {
         "config_path": "multimedia/ffms2-vapoursynth.json",
         "date": "2022-11-03 02:33:49.590658"
