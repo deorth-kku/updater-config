@@ -1,0 +1,11 @@
+{
+    "basic": {
+        "account_name": "beeradmoore",
+        "api_type": "github",
+        "project_name": "dlss-archive"
+    },
+    "download": {
+        "filetype": "zip"
+    },
+    "jsonver": "1.0.0"
+}

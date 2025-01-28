@@ -159,6 +159,14 @@
         "config_path": "gaming/yuzu_ea_alt.json",
         "date": "2023-06-10 06:55:14.489699"
     },
+    "specialk": {
+        "config_path": "gaming/specialk.json",
+        "date": "2024-12-10 01:33:55.222247"
+    },
+    "dlss-archive": {
+        "config_path": "gaming/dlss-archive.json",
+        "date": "2025-01-28 15:07:42.092901"
+    },
     "citra_mmj": {
         "config_path": "android/citra_mmj.json",
         "date": "2022-12-14 14:24:17.366817"
@@ -261,7 +269,7 @@
     },
     "dlss_dll": {
         "config_path": "windows-tools/dlss_dll.json",
-        "date": "2024-11-20 09:44:33.781377"
+        "date": "2024-11-20 09:47:06.240639"
     },
     "ffms2-vapoursynth": {
         "config_path": "multimedia/ffms2-vapoursynth.json",
