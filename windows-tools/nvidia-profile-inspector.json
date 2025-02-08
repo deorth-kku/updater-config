@@ -12,7 +12,7 @@
         "image_name": "nvidiaProfileInspector.exe"
     },
     "version": {
-        "use_exe_version": true
+        "use_exe_version": false
     },
     "jsonver": "1.0.0"
 }
