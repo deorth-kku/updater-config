@@ -8,6 +8,9 @@
         "filetype": "zip",
         "add_version_to_filename": true
     },
+    "decompress": {
+        "single_dir": "NV-Profile-Inspector-Revamped"
+    },
     "process": {
         "image_name": "nvidiaProfileInspector.exe"
     },
