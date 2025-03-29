@@ -9,7 +9,7 @@
         "add_version_to_filename": true
     },
     "decompress": {
-        "single_dir": "NV-Profile-Inspector-Revamped"
+        "single_dir": "NVPI-Revamped"
     },
     "process": {
         "image_name": "nvidiaProfileInspector.exe"
