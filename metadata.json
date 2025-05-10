@@ -265,7 +265,7 @@
     },
     "amd_gpu_driver_whql": {
         "config_path": "windows-tools/amd_gpu_driver_whql.json",
-        "date": "2024-10-19 09:51:33.439408"
+        "date": "2025-05-10 01:14:51.028441"
     },
     "dlss_dll": {
         "config_path": "windows-tools/dlss_dll.json",
