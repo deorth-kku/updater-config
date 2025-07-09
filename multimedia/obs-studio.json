@@ -9,7 +9,7 @@
     },
     "download": {
         "filetype": ["zip"],
-        "keyword": ["OBS-Studio"],
+        "keyword": ["OBS-Studio","%arch"],
         "exclude_keyword":["pdbs","PDBs"]
     },
     "process": {
