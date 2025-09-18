@@ -7,7 +7,7 @@
     "download": {
         "add_version_to_filename": true,
         "filetype": "zip",
-        "keyword": "windows"
+        "keyword": "portable"
     },
     "jsonver": "1.0.0",
     "process": {
