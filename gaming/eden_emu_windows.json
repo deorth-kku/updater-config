@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "account_name": "eden-emulator",
+        "api_type": "github",
+        "project_name": "Releases"
+    },
+    "decompress": {
+        "exclude_file_type": [
+            "xz"
+        ]
+    },
+    "download": {
+        "filetype": "zip",
+        "keyword": [
+            "%arch",
+            "pgo"
+        ]
+    },
+    "jsonver": "1.0.0",
+    "process": {
+        "image_name": "eden"
+    }
+}
