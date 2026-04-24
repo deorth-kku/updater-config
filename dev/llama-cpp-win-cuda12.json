@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "account_name": "ggml-org",
+        "api_type": "github",
+        "project_name": "llama.cpp"
+    },
+    "download": {
+        "keyword": [
+            "win",
+            "cuda-12"
+        ],
+        "exclude_keyword": "cudart",
+        "filetype": "zip"
+    },
+    "jsonver": "1.0.0"
+}
