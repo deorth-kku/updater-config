@@ -12,5 +12,8 @@
         "exclude_keyword": "cudart",
         "filetype": "zip"
     },
+    "process": {
+        "image_name": "llama-server.exe"
+    },
     "jsonver": "1.0.0"
 }
