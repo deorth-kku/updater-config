@@ -327,6 +327,10 @@
         "config_path": "system-tools/waydroid_system_gapps.json",
         "date": "2025-07-09 14:05:44.916447"
     },
+    "llama-cpp-win-cuda13": {
+        "config_path": "dev/llama-cpp-win-cuda13.json",
+        "date": "2026-06-29 11:50:51.930648"
+    },
     "golang-linux-amd64": {
         "config_path": "dev/golang-linux-amd64.json",
         "date": "2025-07-09 14:05:44.915447"
