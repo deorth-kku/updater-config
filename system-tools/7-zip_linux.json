@@ -1,7 +1,8 @@
 {
     "basic": {
-        "api_type": "sourceforge",
-        "project_name": "sevenzip"
+        "account_name": "ip7z",
+        "api_type": "github",
+        "project_name": "7zip"
     },
     "download": {
         "filetype": "tar.xz",

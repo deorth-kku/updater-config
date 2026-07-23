@@ -37,7 +37,7 @@
     },
     "7-zip_win": {
         "config_path": "windows-tools/7-zip_win.json",
-        "date": "2025-07-09 14:05:44.916447"
+        "date": "2026-07-23 04:05:57.661159"
     },
     "ohmgraphite": {
         "config_path": "windows-tools/ohmgraphite.json",
@@ -269,7 +269,7 @@
     },
     "7-zip_linux": {
         "config_path": "system-tools/7-zip_linux.json",
-        "date": "2025-07-09 14:05:44.916447"
+        "date": "2026-07-23 04:05:55.719155"
     },
     "kodexplorer": {
         "config_path": "system-tools/kodexplorer.json",
