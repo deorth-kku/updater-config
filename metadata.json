@@ -307,6 +307,10 @@
         "config_path": "system-tools/doh-proxy_amd64_deb.json",
         "date": "2025-07-09 14:05:44.916447"
     },
+    "aria2-next": {
+        "config_path": "system-tools/aria2-next.json",
+        "date": "2026-07-24 14:22:20.224619"
+    },
     "giga_x570_elite_wifi": {
         "config_path": "system-tools/giga_x570_elite_wifi.json",
         "date": "2025-07-09 14:05:44.916447"

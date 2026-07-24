@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "account_name": "AnInsomniacy",
+        "api_type": "github",
+        "project_name": "aria2-next"
+    },
+    "download": {
+        "filetype": "",
+        "keyword": [
+            "%OS",
+            "%arch"
+        ]
+    },
+    "jsonver": "1.0.0",
+    "process": {
+        "allow_restart": false
+    }
+}
