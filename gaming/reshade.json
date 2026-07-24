@@ -13,6 +13,9 @@
         "regex": "ReShade_Setup_(.*?)_Addon\\.exe"
     },
     "decompress": {
+        "include_file_type": [
+            "dll"
+        ],
         "clean_install": false
     },
     "jsonver": "1.0.4"
