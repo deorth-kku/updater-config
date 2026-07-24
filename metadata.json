@@ -215,6 +215,10 @@
         "config_path": "gaming/ryujinx.json",
         "date": "2025-07-09 14:05:44.915447"
     },
+    "reshade": {
+        "config_path": "gaming/reshade.json",
+        "date": "2026-07-24 05:04:08.928766"
+    },
     "yuzu_ea_alt": {
         "config_path": "gaming/yuzu_ea_alt.json",
         "date": "2025-07-09 14:05:44.915447"

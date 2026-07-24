@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "api_type": "simplespider",
+        "page_url": "https://reshade.me/"
+    },
+    "download": {
+        "regexes": [
+            "<a href=\"(/downloads/ReShade_Setup_.*?_Addon\\.exe)\""
+        ],
+        "try_redirect": false
+    },
+    "version": {
+        "regex": "ReShade_Setup_(.*?)_Addon\\.exe"
+    },
+    "decompress": {
+        "clean_install": true
+    },
+    "jsonver": "1.0.4"
+}
