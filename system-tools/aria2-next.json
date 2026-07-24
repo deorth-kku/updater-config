@@ -11,8 +11,9 @@
             "%arch"
         ]
     },
-    "jsonver": "1.0.0",
+    "jsonver": "2.0.0",
     "process": {
-        "allow_restart": false
+        "allow_restart": false,
+        "image_name":"aria2c"
     }
 }

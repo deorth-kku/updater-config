@@ -217,7 +217,7 @@
     },
     "reshade": {
         "config_path": "gaming/reshade.json",
-        "date": "2026-07-24 09:40:33.221410"
+        "date": "2026-07-24 15:30:25.082158"
     },
     "yuzu_ea_alt": {
         "config_path": "gaming/yuzu_ea_alt.json",
@@ -309,7 +309,7 @@
     },
     "aria2-next": {
         "config_path": "system-tools/aria2-next.json",
-        "date": "2026-07-24 14:22:20.224619"
+        "date": "2026-07-24 15:30:02.538117"
     },
     "giga_x570_elite_wifi": {
         "config_path": "system-tools/giga_x570_elite_wifi.json",
