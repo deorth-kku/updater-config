@@ -20,7 +20,7 @@
         "clean_install": false
     },
     "process": {
-        "image_name": "ReShade"
+        "image_name": "ReShade64"
     },
     "jsonver": "1.0.4"
 }
