@@ -10,13 +10,17 @@
         "try_redirect": false
     },
     "version": {
-        "regex": "ReShade_Setup_(.*?)_Addon\\.exe"
+        "regex": "ReShade_Setup_(.*?)_Addon\\.exe",
+        "use_dll_version": true
     },
     "decompress": {
         "include_file_type": [
             "dll"
         ],
         "clean_install": false
+    },
+    "process": {
+        "image_name": "ReShade"
     },
     "jsonver": "1.0.4"
 }
