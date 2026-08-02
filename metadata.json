@@ -337,7 +337,7 @@
     },
     "llama-cpp-win-cuda13": {
         "config_path": "dev/llama-cpp-win-cuda13.json",
-        "date": "2026-06-29 11:50:51.930648"
+        "date": "2026-08-02 11:19:25.911318"
     },
     "golang-linux-amd64": {
         "config_path": "dev/golang-linux-amd64.json",
@@ -345,11 +345,11 @@
     },
     "llama-cpp-win-cuda12": {
         "config_path": "dev/llama-cpp-win-cuda12.json",
-        "date": "2026-04-24 14:29:21.792660"
+        "date": "2026-08-02 11:19:25.911318"
     },
     "llama-cpp-win-vulkan": {
         "config_path": "dev/llama-cpp-win-vulkan.json",
-        "date": "2026-05-10 09:18:25.450739"
+        "date": "2026-08-02 11:19:25.911318"
     },
     "android-platform-tools_linux": {
         "config_path": "dev/android-platform-tools_linux.json",
@@ -358,6 +358,10 @@
     "android-platform-tools_windows": {
         "config_path": "dev/android-platform-tools_windows.json",
         "date": "2025-07-09 14:05:44.915447"
+    },
+    "llama-cpp-linux-vulkan": {
+        "config_path": "dev/llama-cpp-linux-vulkan.json",
+        "date": "2026-08-02 11:20:45.485464"
     },
     "golang-windows-amd64": {
         "config_path": "dev/golang-windows-amd64.json",

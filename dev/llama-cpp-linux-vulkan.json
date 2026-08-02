@@ -1,0 +1,21 @@
+{
+    "basic": {
+        "account_name": "ggml-org",
+        "api_type": "github",
+        "project_name": "llama.cpp"
+    },
+    "download": {
+        "keyword": [
+            "ubuntu",
+            "vulkan",
+            "%arch"
+        ],
+        "filetype": "tar.gz"
+    },
+    "process": {
+        "image_name": "llama-server",
+        "allow_restart": true,
+        "service": true
+    },
+    "jsonver": "1.0.0"
+}
