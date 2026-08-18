@@ -1,0 +1,21 @@
+{
+    "basic": {
+        "account_name": "Anbeeld",
+        "api_type": "github",
+        "project_name": "beellama.cpp"
+    },
+    "download": {
+        "keyword": [
+            "ubuntu",
+            "cuda-13",
+            "%arch"
+        ],
+        "filetype": "tar.gz"
+    },
+    "process": {
+        "image_name": "llama-server",
+        "allow_restart": true,
+        "service": true
+    },
+    "jsonver": "1.0.0"
+}

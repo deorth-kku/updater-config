@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "account_name": "Anbeeld",
+        "api_type": "github",
+        "project_name": "beellama.cpp"
+    },
+    "download": {
+        "keyword": [
+            "win",
+            "cuda-13"
+        ],
+        "exclude_keyword": "cudart",
+        "filetype": "zip"
+    },
+    "process": {
+        "image_name": "llama-server.exe"
+    },
+    "jsonver": "1.0.0"
+}

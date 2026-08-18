@@ -347,6 +347,10 @@
         "config_path": "dev/llama-cpp-win-cuda12.json",
         "date": "2026-08-02 11:19:25.911318"
     },
+    "beellama-cpp-win-cuda13": {
+        "config_path": "dev/beellama-cpp-win-cuda13.json",
+        "date": "2026-08-18 11:38:02.778672"
+    },
     "llama-cpp-win-vulkan": {
         "config_path": "dev/llama-cpp-win-vulkan.json",
         "date": "2026-08-02 11:19:25.911318"
@@ -354,6 +358,10 @@
     "android-platform-tools_linux": {
         "config_path": "dev/android-platform-tools_linux.json",
         "date": "2025-07-09 14:05:44.915447"
+    },
+    "beellama-cpp-linux-cuda13": {
+        "config_path": "dev/beellama-cpp-linux-cuda13.json",
+        "date": "2026-08-18 11:39:59.819848"
     },
     "android-platform-tools_windows": {
         "config_path": "dev/android-platform-tools_windows.json",
