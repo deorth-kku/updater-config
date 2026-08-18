@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "account_name": "Anbeeld",
+        "api_type": "github",
+        "project_name": "beellama.cpp"
+    },
+    "download": {
+        "keyword": [
+            "win",
+            "vulkan"
+        ],
+        "filetype": "zip"
+    },
+    "process": {
+        "image_name": "llama-server.exe"
+    },
+    "jsonver": "1.0.0"
+}

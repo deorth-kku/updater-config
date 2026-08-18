@@ -339,6 +339,10 @@
         "config_path": "dev/llama-cpp-win-cuda13.json",
         "date": "2026-08-02 11:19:25.911318"
     },
+    "beellama-cpp-linux-vulkan": {
+        "config_path": "dev/beellama-cpp-linux-vulkan.json",
+        "date": "2026-08-18 11:44:02.156210"
+    },
     "golang-linux-amd64": {
         "config_path": "dev/golang-linux-amd64.json",
         "date": "2025-07-09 14:05:44.915447"
@@ -370,6 +374,10 @@
     "llama-cpp-linux-vulkan": {
         "config_path": "dev/llama-cpp-linux-vulkan.json",
         "date": "2026-08-02 11:20:45.485464"
+    },
+    "beellama-cpp-win-vulkan": {
+        "config_path": "dev/beellama-cpp-win-vulkan.json",
+        "date": "2026-08-18 11:43:32.430166"
     },
     "golang-windows-amd64": {
         "config_path": "dev/golang-windows-amd64.json",
