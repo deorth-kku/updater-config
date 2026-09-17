@@ -4,6 +4,11 @@
         "api_type": "github",
         "project_name": "SpecialK"
     },
+    "decompress": {
+        "exclude_file_type_when_update": [
+            "ini"
+        ]
+    },
     "download": {
         "add_version_to_filename": true,
         "filetype": "7z"
