@@ -1,11 +1,17 @@
 {
     "basic": {
-        "account_name": "beeradmoore",
+        "account_name": "NVIDIA",
         "api_type": "github",
-        "project_name": "dlss-archive"
+        "project_name": "DLSS"
     },
     "download": {
-        "filetype": "zip"
+        "filetype": "zip",
+        "keyword":"windows",
+        "add_version_to_filename":true
+    },
+    "decompress":{
+        "single_dir":"DLSS_Sample_App/bin/ngx_dlss_demo",
+        "exclude_file_type":["exe"]
     },
     "jsonver": "1.0.0"
 }
